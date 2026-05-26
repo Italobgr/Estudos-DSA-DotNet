@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPHs6PK5P0E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc Gamer\\Documents\\Projetos\\Estudo\\C#\\Estudos-DSA-DotNet\\pratica\\05-Injecao-Dependencia\\DependencyDemo\\DependencyDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc Gamer\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.8\\microsoft.extensions.dependencyinjection.10.0.8.nupkg.sha512",
+    "C:\\Users\\Pc Gamer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
